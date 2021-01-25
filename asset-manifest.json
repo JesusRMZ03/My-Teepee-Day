@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Teepee-Day/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/My-Teepee-Day/static/js/main.f5bf1f73.chunk.js",
+    "main.js.map": "/My-Teepee-Day/static/js/main.f5bf1f73.chunk.js.map",
+    "runtime-main.js": "/My-Teepee-Day/static/js/runtime-main.2bf83c75.js",
+    "runtime-main.js.map": "/My-Teepee-Day/static/js/runtime-main.2bf83c75.js.map",
+    "static/js/2.209b27a2.chunk.js": "/My-Teepee-Day/static/js/2.209b27a2.chunk.js",
+    "static/js/2.209b27a2.chunk.js.map": "/My-Teepee-Day/static/js/2.209b27a2.chunk.js.map",
+    "index.html": "/My-Teepee-Day/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/My-Teepee-Day/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.209b27a2.chunk.js.LICENSE.txt": "/My-Teepee-Day/static/js/2.209b27a2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/My-Teepee-Day/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf83c75.js",
+    "static/js/2.209b27a2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f5bf1f73.chunk.js"
+  ]
+}
