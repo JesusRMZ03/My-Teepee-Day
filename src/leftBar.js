@@ -1,4 +1,5 @@
 import React from 'react'
+import './Css/main.css';
 
 export const leftBar = () => {
     return (
