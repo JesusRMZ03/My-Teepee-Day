@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './Css/index.css';
-import Menu from './Menu';
+import leftBar  from './leftBar';
+// import Menu from './Menu';
 
 
 ReactDOM.render(
-    <Menu />,
+    <leftBar />,
+
   document.getElementById('root')
 );
 
