@@ -20,8 +20,8 @@ export const Home = ()=> {
 								<section id="banner">
 									<div className="content">
 										<header>
-											<h1>Menu principal de My Teepee Day</h1>
-											<p>A free and fully responsive site template</p>
+											<h1>My Teepee Day</h1>
+											<p>Creando los mejores dias especiales</p>
 										</header>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 										<ul className="actions">
@@ -35,7 +35,7 @@ export const Home = ()=> {
 
 								<section>
 									<header className="major">
-										<h2>Erat lacinia</h2>
+										<h2>Sobre nuestros servicios</h2>
 									</header>
 									<div className="features">
 										<article>
@@ -48,7 +48,7 @@ export const Home = ()=> {
 										<article>
 											<span className="icon solid fa-paper-plane"></span>
 											<div className="content">
-												<h3>Sapien veroeros</h3>
+												<h3>Envio gratis</h3>
 												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
@@ -71,7 +71,7 @@ export const Home = ()=> {
 
 								<section>
 									<header className="major">
-										<h2>Ipsum sed dolor</h2>
+										<h2>Paquetes</h2>
 									</header>
 									<div className="posts">
 										<article>
@@ -115,7 +115,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img.pic06.jpg} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic06} alt="" /></a>
 											<h3>Amet varius aliquam</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
