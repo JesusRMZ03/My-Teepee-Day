@@ -10,9 +10,9 @@ export const Home = ()=> {
 								<header id="header">
 									<a href="index.html" className="logo"><strong>My Teepee Day</strong> by DojoDevs</a>
 									<ul className="icons">
-										<li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
-										<li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-										<li><a href="#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
+										<li><a href="#" target="_BLANK" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/MyTeepeeDay" target="_BLANK" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/myteepeeday/" target="_BLANK" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
 									</ul>
 								</header>
 
@@ -25,11 +25,11 @@ export const Home = ()=> {
 										</header>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 										<ul className="actions">
-											<li><a href="#" className="button big">Learn More</a></li>
+											<li><a href="https://calendly.com/myteepeeday/reserva" className="button big">Reservar</a></li>
 										</ul>
 									</div>
 									<span className="image object">
-										<img src="images/pic10.jpg" alt="" />
+										<img src={img.pic10} alt="" />
 									</span>
 								</section>
 
@@ -75,7 +75,7 @@ export const Home = ()=> {
 									</header>
 									<div className="posts">
 										<article>
-											<a href="#" className="image"><img src={img/pic01} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic01} alt="" /></a>
 											<h3>Interdum aenean</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
@@ -83,7 +83,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img/pic02} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic02} alt="" /></a>
 											<h3>Nulla amet dolore</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
@@ -91,7 +91,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img/pic03} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic03} alt="" /></a>
 											<h3>Tempus ullamcorper</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
@@ -99,7 +99,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img/pic04} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic04} alt="" /></a>
 											<h3>Sed etiam facilis</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
@@ -107,7 +107,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img/pic05} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic05} alt="" /></a>
 											<h3>Feugiat lorem aenean</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
@@ -115,7 +115,7 @@ export const Home = ()=> {
 											</ul>
 										</article>
 										<article>
-											<a href="#" className="image"><img src={img/pic06.jpg} alt="" /></a>
+											<a href="#" className="image"><img src={img.pic06.jpg} alt="" /></a>
 											<h3>Amet varius aliquam</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul className="actions">
