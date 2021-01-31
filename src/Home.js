@@ -1,4 +1,5 @@
 import './Css/main.css';
+import './Css/row.css';
 import img from './img';
 
 export const Home = () => {
@@ -76,7 +77,7 @@ export const Home = () => {
 					<div className="posts">
 						<article>
 							<a href="#" className="image"><img src={img.pic01} alt="" /></a>
-							<h3>Interdum aenean</h3>
+							<h3>Promocion del mes</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
@@ -84,7 +85,7 @@ export const Home = () => {
 						</article>
 						<article>
 							<a href="#" className="image"><img src={img.pic02} alt="" /></a>
-							<h3>Nulla amet dolore</h3>
+							<h3>Paquete 1</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
@@ -92,7 +93,7 @@ export const Home = () => {
 						</article>
 						<article>
 							<a href="#" className="image"><img src={img.pic03} alt="" /></a>
-							<h3>Tempus ullamcorper</h3>
+							<h3>Paquete 2</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
@@ -100,7 +101,7 @@ export const Home = () => {
 						</article>
 						<article>
 							<a href="#" className="image"><img src={img.pic04} alt="" /></a>
-							<h3>Sed etiam facilis</h3>
+							<h3>Paquete 3</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
@@ -108,7 +109,7 @@ export const Home = () => {
 						</article>
 						<article>
 							<a href="#" className="image"><img src={img.pic05} alt="" /></a>
-							<h3>Feugiat lorem aenean</h3>
+							<h3>Paquete 4</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
@@ -116,7 +117,7 @@ export const Home = () => {
 						</article>
 						<article>
 							<a href="#" className="image"><img src={img.pic06} alt="" /></a>
-							<h3>Amet varius aliquam</h3>
+							<h3>Comidas</h3>
 							<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 							<ul className="actions">
 								<li><a href="#" className="button">Lo quiero!</a></li>
