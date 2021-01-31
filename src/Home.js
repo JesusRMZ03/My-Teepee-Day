@@ -10,9 +10,9 @@ export const Home = ()=> {
 								<header id="header">
 									<a href="index.html" className="logo"><strong>My Teepee Day</strong> by DojoDevs</a>
 									<ul className="icons">
-										<li><a href="#" target="_BLANK" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
 										<li><a href="https://www.facebook.com/MyTeepeeDay" target="_BLANK" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
 										<li><a href="https://www.instagram.com/myteepeeday/" target="_BLANK" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
+										<li><a href="#" target="_BLANK" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
 									</ul>
 								</header>
 
@@ -25,7 +25,7 @@ export const Home = ()=> {
 										</header>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 										<ul className="actions">
-											<li><a href="https://calendly.com/myteepeeday/reserva" className="button big">Reservar</a></li>
+											<li><a href="https://calendly.com/myteepeeday/reserva" target="_BLANK" className="button big">Reservar</a></li>
 										</ul>
 									</div>
 									<span className="image object">
