@@ -2,14 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './Css/index.css';
 import Home from './Home';
-import leftBar  from './leftBar';
-// import Menu from './Menu';
 
 
+const root = document.getElementById('root')
 ReactDOM.render(
-    <Home />,
-    <leftBar/>,
+  <Home />, root);
 
-  document.getElementById('root')
-);
 
