@@ -4,7 +4,7 @@ import './Css/main.css';
 export const leftBar = () => {
     return (
         <div id="sidebar">
-        <div className="inner">
+            <div className="inner">
 
 
                 <section id="search" className="alt">
@@ -33,7 +33,7 @@ export const leftBar = () => {
                         <li><a href="#">Etiam Dolore</a></li>
                         <li><a href="#">Adipiscing</a></li>
                         <li>
-                            <span class="opener">Another Submenu</span>
+                            <span className="opener">Another Submenu</span>
                             <ul>
                                 <li><a href="#">Lorem Dolor</a></li>
                                 <li><a href="#">Ipsum Adipiscing</a></li>
@@ -87,7 +87,7 @@ export const leftBar = () => {
                     <p className="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
                 </footer>
 
+            </div>
         </div>
-    </div>
     )
 }
